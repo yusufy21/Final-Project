@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
     <style>
         html {
-            background: url(https://images.pexels.com/photos/450055/pexels-photo-450055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center fixed;
+            background: url(the-dark-knight-feature.jpg) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -70,6 +70,29 @@
         .öğeler ul li {
             display: block;
         }
+        .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(255, 242, 0);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.styled:hover {
+    background-color: rgb(72, 0, 144);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+
     </style>
 </head>
 
@@ -101,6 +124,14 @@
             <p class="gityazi">Githubumuz</p>
         </div>
         </a>
+    <div>
+        <h1 style="color:rgb(9, 0, 170);font: size 40px;">Film Yolculuğuna Başlamak İçin</h1>
+        <div id="tıkla">
+            <form action="en_iyiler.html">
+                <input  class="favorite styled" type="submit" value="Tıklayın" />
+            </form>
+        </div>
+    </div>
 
         <footer>
             <div class="footer-content">

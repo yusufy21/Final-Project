@@ -1,0 +1,146 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anasayfa</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        html {
+            background: url(https://cdn.discordapp.com/attachments/1078713250218266744/1082360441273061477/image.png) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        p {
+            font-size: 20px;
+            color: whitesmoke;
+        }
+
+        h1 {
+            font-size: 35px;
+            color: rgb(109, 197, 252);
+        }
+
+        h3 {
+            font-size: 30px;
+            color: lightblue
+        }
+
+        .üstbar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #34495e;
+        }
+
+        .öğeler {
+            display: inline-block;
+        }
+
+        .öğeler>.links {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .öğeler>a:hover {
+            background-color: red;
+
+        }
+
+        .üstbar>.öğeler>ul {
+            background-color: #2c3e50;
+            display: none;
+            position: absolute;
+            width: 100px
+        }
+
+        .öğeler :hover ul {
+            display: block;
+        }
+
+        .öğeler ul li {
+            display: block;
+        }
+        .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(255, 242, 0);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.styled:hover {
+    background-color: rgb(72, 0, 144);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+
+    </style>
+</head>
+
+<body>
+    <ul class="üstbar">
+        <li class="öğeler"><a class="links" href="anasayfa.html">Ana sayfa</a></li>
+
+        <li class="öğeler"><a class="links" href="en_iyiler.html">En İyi Filmler</a></li>
+
+        <li class="öğeler"><a class="links" href="gerilim.html">En İyi Gerilim Filmleri</a></li>
+
+
+        <li class="öğeler"><a class="links" href="aksiyon.html">En İyi Aksiyon Filmleri</a></li>
+
+    </ul class="üstbar">
+    <header>
+        <h1 id="anabaslık">Anasayfa</h1>
+        <div class="git">
+            <a width="20px" href="https://github.com/yusufy21">
+                <img class="githublogo" src="https://github.com/fluidicon.png" alt="Yusuf Sati" title="Yusuf Sati">
+            </a>
+            <a href="https://github.com/aligoktas404">
+                <img class="githublogo" src="https://github.com/fluidicon.png" alt="Ali Göktaş" title="Ali Göktaş">
+            </a>
+            <a href="https://github.com/Yusufly">
+                <img class="githublogo" src="https://github.com/fluidicon.png" alt="Yusuf Alper Karaman"
+                    title="Yusuf Alper Karaman">
+            </a>
+            <p class="gityazi">Githubumuz</p>
+        </div>
+        </a>
+    <div>
+        <h1 style="color:rgb(9, 0, 170);font: size 40px;">Film Yolculuğuna Başlamak İçin</h1>
+        <div id="tıkla">
+            <form action="en_iyiler.html">
+                <input  class="favorite styled" type="submit" value="Tıklayın" />
+            </form>
+        </div>
+    </div>
+
+        <footer>
+            <div class="footer-content">
+                <h3>FİLMİZM</h3>
+                <p>Filmlerin tek adresi Filmizm</p>
+            </div>
+            <div class="footer-bottom">
+                <p>Filmizm designed by <span>YAY</span></p>
+            </div>
+        </footer>
+        
+</body>
+</html>

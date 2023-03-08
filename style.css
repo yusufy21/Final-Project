@@ -2,8 +2,8 @@ div {
   text-align: center;
 }
 
-#anabaşlık {
-  font-family: Garamond;
+#anabaslık {
+  font-family: monospace;
 }
 
 h3 {
@@ -22,7 +22,7 @@ p {
 h1 {
   text-align: center;
   font-family: monospace;
-  color: darkred;
+  color: rgb(109, 197, 252);
 }
 
 @media screen and (max-width: 480px) {
@@ -116,7 +116,7 @@ a:link {
 
 footer {
   position: absolute;
-  0 bottom: 0;
+  bottom: auto;
   left: 0;
   right: 0;
   background: #111;

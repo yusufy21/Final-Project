@@ -13,7 +13,7 @@
 
 Aşağıdaki yolu izleyerek indirebilirsiniz.
 ```bash 
-    git clone https://github.com/EnesKabakaya/KursSatis
+    git clone https://github.com/yusufy21/Final-Project
 ```
 
     

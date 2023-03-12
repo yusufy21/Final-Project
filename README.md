@@ -25,7 +25,7 @@ Aşağıdaki yolu izleyerek indirebilirsiniz.
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa,  alperkaramann66@gmail.com , aligoktas404@gmail.com , aligoktas404@gmail.com adreslerinden bize ulaşabilirsiniz.
+Herhangi bir geri bildiriminiz varsa,  alperkaramann66@gmail.com , yusufsati593@gmail.com , aligoktas404@gmail.com adreslerinden bize ulaşabilirsiniz.
 
   
 ## Ekran Görüntüleri

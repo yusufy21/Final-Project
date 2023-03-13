@@ -30,7 +30,7 @@ Herhangi bir geri bildiriminiz varsa,  alperkaramann66@gmail.com , yusufsati593@
   
 ## Ekran Görüntüleri
 
-![image1](https://user-images.githubusercontent.com/123965338/224495309-182e6ab9-e4c0-4b49-8c32-89053bf62583.png)
+![image1](https://media.discordapp.net/attachments/1078713250218266744/1084867366904680458/image.png?width=781&height=439)
 
 
 ![image2](https://user-images.githubusercontent.com/123965338/224495321-8a7d5579-1e9c-42f6-a276-acf00003bd6a.png)
